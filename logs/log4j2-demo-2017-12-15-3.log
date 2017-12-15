@@ -1,0 +1,7 @@
+2017-12-15 10:05:20.810  WARN DSGNB157.local --- [o-auto-1-exec-3] i.p.d.l.Log4j2DemoApplication            : org.apache.logging.log4j.Logger warn
+2017-12-15 10:05:20.811 ERROR DSGNB157.local --- [o-auto-1-exec-3] i.p.d.l.Log4j2DemoApplication            : org.apache.logging.log4j.Logger error
+2017-12-15 10:05:20.811  INFO DSGNB157.local --- [o-auto-1-exec-3] i.p.d.p.TestLOgger                       : TestLOgger org.apache.logging.log4j.Logger info
+2017-12-15 10:05:20.812  WARN DSGNB157.local --- [o-auto-1-exec-3] i.p.d.p.TestLOgger                       : TestLOgger org.apache.logging.log4j.Logger warn
+2017-12-15 10:05:20.812 ERROR DSGNB157.local --- [o-auto-1-exec-3] i.p.d.p.TestLOgger                       : TestLOgger org.apache.logging.log4j.Logger error
+2017-12-15 10:05:43.849  INFO DSGNB157.local --- [o-auto-1-exec-4] i.p.d.l.Log4j2DemoApplication            : org.apache.logging.log4j.Logger info
+2017-12-15 10:05:43.850  WARN DSGNB157.local --- [o-auto-1-exec-4] i.p.d.l.Log4j2DemoApplication            : org.apache.logging.log4j.Logger warn
